@@ -11,12 +11,13 @@
 points_list = [
     [  53.808478, -1.5527924, "University of Leeds" ],
     [  53.840032, -1.6432286, "Nick's neighbourhood" ],
+
+    # Add more points here
+
+    # [ latitude, longitude, "description" ],
+    # [ latitude, longitude, "description" ],
+
 ]
-
-
-
-
-# ****************** EDIT ABOVE ******************
 
 def get_points():
     """Return the list of points"""
