@@ -14,8 +14,8 @@ points_list = [
 
     # Add more points here
 
-    # [ latitude, longitude, "description" ], 
-    # [ latitude, longitude, "description" ], 
+    [ 53.794974, -1.548180, "Leeds Station" ], 
+    [ 53.810209, -1.565007, "Woodhouse Moor" ], 
 
 ]
 
